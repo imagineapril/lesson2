@@ -1,14 +1,12 @@
 //package ru.timokhina.lesson13;
-//enum Food {
-//    APPLE,
-//    CARROT,
-//    PORRIGE;
-//}
 //
 //public class Mom {
-//    Mom mom = new Mom();
 //
 //    public static void main(String[] args) throws AppleChildException, CarrotChildException, PorrigeChildException {
+//        Mom mom = new Mom();
+//        Child child = new Child();
+//
+//        child.eat(Food.APPLE);
 //
 //        while (true) {
 //            Enum food;
@@ -34,7 +32,6 @@
 //            }
 //        }
 //
-//        Child child = new Child();
 //
 //    public void setChild(Child child) {
 //        this.child = child;

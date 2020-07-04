@@ -1,8 +1,12 @@
-//package ru.timokhina.lesson13;
-//
-//public class Child {
-//
-//void eat(AppleChildException, CarrotChildException, PorrigeChildException)  {
-//
-//    }
-//}
+package ru.timokhina.lesson13;
+
+public class Child {
+    public Child (){
+
+    }
+
+void eat(Food food)  {
+
+
+    }
+}
